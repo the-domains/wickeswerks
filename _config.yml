@@ -1,0 +1,28 @@
+name: Wickeswerks
+favicon: null
+layout_spectrum: 0.14865338732488453
+typography_spectrum: 0.2675518386531621
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9242631911765784
+  lightness: 0.39794397121295333
+  saturation: 0.0035790149122476578
+  rhythmicContrast: 0.48661916865967214
+purpose: []
